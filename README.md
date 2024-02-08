@@ -8,4 +8,4 @@ This repository is a collection of my solutions to challenges from LeetCode, a p
 
 | Practice Problems | Name|Languages | 
 |------------------:|-----|----------|
-|                  1| Two Sum   | Python|
+|                  1| [Two Sum](https://github.com/vedant0321/Leetcode/blob/main/Two%20Sum/two-sum.py)  | Python|
