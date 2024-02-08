@@ -24,7 +24,7 @@ Output: [0,1]
 ```
 #### Constraints:
 
-1. 2 <= nums.length <= 104
+1. $$ 2 <= nums.length <= 10^4 $$
 2. -109 <= nums[i] <= 109
 3. -109 <= target <= 109
 4. Only one valid answer exists.
