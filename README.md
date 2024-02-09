@@ -9,4 +9,4 @@ This repository is a collection of my solutions to challenges from LeetCode, a p
 | Practice Problems | Name|Languages | 
 |------------------:|-----|----------|
 |                  1| [Two Sum](https://github.com/vedant0321/Leetcode/tree/main/Two%20Sum)  | Python|
-|2|[Add Two Number]()|C++|
+|2|[Add Two Number](https://github.com/vedant0321/Leetcode/tree/main/Add%20Two%20Number)|C++|
