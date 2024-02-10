@@ -10,5 +10,5 @@ This repository is a collection of my solutions to challenges from LeetCode, a p
 |------------------:|-----|----------|
 |                  1| [Two Sum](https://github.com/vedant0321/Leetcode/tree/main/Two%20Sum)  | Python|
 |2|[Add Two Number](https://github.com/vedant0321/Leetcode/tree/main/Add%20Two%20Number)|C++|
-|3|[Longest Substring Without Repeating Characters]()|C++|
+|3|[Longest Substring Without Repeating Characters](https://github.com/vedant0321/Leetcode/tree/main/Longest%20Substring%20Without%20Repeating%20Characters)|C++|
 
