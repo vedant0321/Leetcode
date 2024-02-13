@@ -13,4 +13,4 @@ This repository is a collection of my solutions to challenges from LeetCode, a p
 |3|[Longest Substring Without Repeating Characters](https://github.com/vedant0321/Leetcode/tree/main/Longest%20Substring%20Without%20Repeating%20Characters)|C++|
 |4|[Median of Two Sorted Arrays](https://github.com/vedant0321/Leetcode/tree/main/Median%20of%20Two%20Sorted%20Arrays)|C++|
 |9|[ Palindrome Number](https://github.com/vedant0321/Leetcode/tree/main/Palindrome%20Number)|C++|
-
+|33|[Search in Rotated Sorted Array Solved](https://github.com/vedant0321/Leetcode/tree/main/Search%20in%20Rotated%20Sorted%20Array)|C++|
