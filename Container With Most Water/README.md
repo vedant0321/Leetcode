@@ -1,13 +1,7 @@
 ##  Container With Most Water
 
 #### Description
-```
 You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
-
-
-
- 
-```
 ```
 Example 1:
 
@@ -22,8 +16,8 @@ Output: 1
 ``` 
 #### Constraints:
 ```
-n == height.length
-2 <= n <= &10^5&
-0 <= height[i] <= &10^4&
+1. n == height.length
+2. 2 <= n <=$10^5$
+3. 0 <= height[i] <= $10^4$
 ```
 ##### Could you solve it without converting the integer to a string?
